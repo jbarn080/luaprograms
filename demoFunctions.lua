@@ -8,14 +8,12 @@
     end
 	
 -- defines another function
-	
-	function norm (x, y)
+    function norm (x, y)
       local n2 = x^2 + y^2
       return math.sqrt(n2)
     end
 
 -- defines another function
-
     function twice (x)
       return 2*x
     end
