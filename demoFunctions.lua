@@ -20,7 +20,7 @@
       return 2*x
     end
 
---requestsw information and prints results using the functions above
+--requests information and prints results using the functions above
     print("enter a number:")
     a = io.read("*number")        -- read a number
 	    print("enter a number:")
